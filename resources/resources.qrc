@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.png</file>
+        <file>black_tiles.png</file>
+        <file>blue_tiles.png</file>
+        <file>green_tiles.png</file>
+        <file>grey_tiles.png</file>
+        <file>red_tiles.png</file>
+        <file>white_tiles.png</file>
+    </qresource>
+</RCC>
