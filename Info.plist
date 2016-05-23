@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Fibonacc</string>
 	<key>CFBundleExecutable</key>
-	<string>Fibonnac iClock</string>
+	<string>Fibonacc iClock</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Created by Qt/QMake</string>
 	<key>CFBundleIconFile</key>

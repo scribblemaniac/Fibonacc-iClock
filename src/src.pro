@@ -15,7 +15,7 @@ SOURCES += \
 RESOURCES += \
     ../resources/resources.qrc
 
-TARGET = "Fibonnac iClock"
+TARGET = "Fibonacc iClock"
 
 QMAKE_INFO_PLIST = ../Info.plist
 
