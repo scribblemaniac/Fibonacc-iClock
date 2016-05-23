@@ -1,6 +1,6 @@
 # Fibonnac iClock
 
-![Screenshot](https://github.com/scribblemaniac/fibonnac-iclock/blob/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/scribblemaniac/Fibonnac-iClock/master/Screenshot.png)
 
 Fibonnac iClock is a fibonnaci clock implementation for iOS. This project is based off of [Thiago Sá's implementation](http://tts.eng.br/the-fibonacci-clock/) of [Philippe Chrétien's fibonacci lamp](https://www.kickstarter.com/projects/basbrun/fibonacci-clock-an-open-source-clock-for-nerds-wit). The graphics and exact minute display method in particular come from Mr.Sá so a huge thanks to him! Creating iOS app and design of the internal algorithms was done by scribblemaniac.
 
