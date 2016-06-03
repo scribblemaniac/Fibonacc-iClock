@@ -29,3 +29,6 @@
 
 # Qt user file
 *.pro.user
+
+# Qt build folder
+build-*
